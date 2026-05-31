@@ -1,0 +1,31 @@
+﻿  App.cpp
+  Button.cpp
+  CityUpgradeScreen.cpp
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         with
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         [
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:             T=int
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         ]
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         and
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         [
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:             T=float
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,124): warning C4244:         ]
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         with
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         [
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:             T=int
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         ]
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         and
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         [
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:             T=float
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\CityUpgradeScreen.cpp(116,112): warning C4244:         ]
+  GameScreen.cpp
+  main.cpp
+  MapScreen.cpp
+  Match3Screen.cpp
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\Match3Screen.cpp(252,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\Match3Screen.cpp(252,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\Match3Screen.cpp(261,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Егор\Desktop\курсач2\universityscapes\pivo\Match3Screen.cpp(261,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  pivo.vcxproj -> C:\Users\Егор\Desktop\курсач2\universityscapes\x64\Debug\pivo.exe
